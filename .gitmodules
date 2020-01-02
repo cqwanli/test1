@@ -1,0 +1,3 @@
+[submodule "test2"]
+	path = test2
+	url = git@github.com:cqwanli/test2.git
